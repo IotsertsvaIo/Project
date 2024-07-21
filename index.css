@@ -1,5 +1,9 @@
 h1 {
-    color: brown;
+    color: yellow;
     font-size: 100px;
     font-family: cursive;
+}
+
+body {
+    background-color: aqua;
 }
